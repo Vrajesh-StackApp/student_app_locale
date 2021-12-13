@@ -1,0 +1,4 @@
+#Wed Dec 01 10:59:25 IST 2021
+base.0=/Users/stackappinfotech/Desktop/Vrajesh/Demo/student_app_locale/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
